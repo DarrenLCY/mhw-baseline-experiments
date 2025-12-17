@@ -1,2 +1,2 @@
-# mhw-baseline-experiments
-Code for paper titled: "An experimental approach to estimate marine heatwave thresholds and baselines for ecological risks"
+# An experimental approach to estimate marine heatwave thresholds and baselines for ecological risks
+Scripts and data for the main analyses are in the main folder. The "Beaty et al. 2023 data and analysis" folder contains some data from Beaty et al. (2023) and the script that we used to test whether a fixed or a seasonally varying threshold better represents the thermal threshold of ectotherms (more details in the main paper). 
