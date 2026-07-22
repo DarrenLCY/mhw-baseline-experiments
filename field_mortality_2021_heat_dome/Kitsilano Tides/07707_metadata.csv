@@ -1,0 +1,65 @@
+Station Name - Nom de la station,Kitsilano
+Station Code - Code de la station,07707
+Latitude - Latitude,49.276583
+Longitude - Longitude,-123.13936
+Time Zone - Fuseau horaire,Canada/Pacific
+Established - Établie,2017
+Resolution - Résolution,1 minute - 1 minute
+Date of Commissioning - Date de mise en service,2017/01/26
+Active - Actif,true
+Type - Type,Permanent - Permanente
+Tidal Regime - Régime tidal,true
+
+Datums - Datums
+
+Code - Code,CGVD2013
+Offset - Décalage,-2.932
+
+Code - Code,CGVD28
+Offset - Décalage,-3.046
+
+Heights - Hauteurs
+
+Code - Code,HHWLT
+Name - Nom,Higher High Water Large Tide - Pleine Mer Supérieure Grande Marée
+Value - Valeur,5.006
+
+Code - Code,HRWL
+Name - Nom,Highest Recorded Water Level - Plus haut niveau d'eau enregistré
+Value - Valeur,5.772
+
+Code - Code,MWL
+Name - Nom,Mean Water Level - Niveau Moyen de l'Eau
+Value - Valeur,3.116
+
+Code - Code,LLWLT
+Name - Nom,Lower Low Water Large Tide - Basse Mer Inférieure Grande Marée
+Value - Valeur,0.085
+
+Code - Code,MHHW
+Name - Nom,Mean Higher High Water (Higher High Water Mean Tide) - Hauteur moyenne des pleines mers supérieures (Pleine Mer Supérieure Marée Moyenne)
+Value - Valeur,4.49
+
+Code - Code,MLLW
+Name - Nom,Mean Lower Low Water (Lower Low Water Mean Tide) - Hauteur moyenne des basses mers inférieures (Basse Mer Inférieure Marée Moyenne)
+Value - Valeur,1.23
+
+Code - Code,LRWL
+Name - Nom,Lowest Recorded Water Level - Plus bas niveau d'eau enregistré
+Value - Valeur,-0.117
+
+Code - Code,HAT
+Name - Nom,Highest Astronomical Tide - Plus Haute Mer Astronomique
+Value - Valeur,5.084
+
+Code - Code,LAT
+Name - Nom,Lowest Astronomical Tide - Plus Basse Mer Astronomique
+Value - Valeur,-0.087
+
+Code - Code,MHW
+Name - Nom,Mean High Water (High Water Mean Tide) - Pleine Mer Moyenne
+Value - Valeur,4.211
+
+Code - Code,MLW
+Name - Nom,Mean Low Water (Low Water Mean Tide) - Basse Mer Moyenne
+Value - Valeur,2.115
